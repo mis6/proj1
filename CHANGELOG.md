@@ -2,7 +2,6 @@
 All notable changes to this project will be documented in this file.
 
 ## 2021-09-27-1  
-
 ## 2021-09-27  
 ### Modified   功能修改  
 -修正 名額值 是null時的判斷取值小數點一位問題  
